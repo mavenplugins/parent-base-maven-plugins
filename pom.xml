@@ -30,7 +30,7 @@
       <id>mavenplugins</id>
       <!-- Let Maven Central Search show 'Public Project' as known contributors tag -->
       <name>Public Project</name>
-      <url>https://github.com/mavenplugins/maven-cdi-plugin-utils/graphs/contributors</url>
+      <url>https://github.com/mavenplugins/parent-base-maven-plugins/graphs/contributors</url>
       <organization>mavenplugins</organization>
       <organizationUrl>https://github.com/mavenplugins/</organizationUrl>
       <timezone>1</timezone>
