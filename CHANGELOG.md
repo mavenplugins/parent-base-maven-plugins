@@ -125,7 +125,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   <parent>
     <groupId>io.github.mavenplugins</groupId>
     <artifactId>parent-base-maven-plugins</artifactId>
-    <version>9</version>
+    <version>2</version>
   </parent>
   ```
 
