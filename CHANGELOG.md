@@ -159,5 +159,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - This is just a dummy placeholder to make the parser of GHCICD/release-notes-from-changelog@v1 happy!
 -->
 
-[Unreleased]: https://github.com/mavenplugins/parent-base-maven-plugins/compare/v2..HEAD
+[Unreleased]: https://github.com/mavenplugins/parent-base-maven-plugins/compare/v3..HEAD
+[3]: https://github.com/mavenplugins/parent-base-maven-plugins/compare/v2..v3
 [2]: https://github.com/mavenplugins/parent-base-maven-plugins/releases/tag/v2
