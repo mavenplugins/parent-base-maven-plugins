@@ -76,13 +76,35 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 <!-- !!! Align version in badge URLs as well !!! -->
-[![3 Badge](https://img.shields.io/nexus/r/io.github.mavenplugins/parent-base-maven-plugins?server=https://s01.oss.sonatype.org&label=Maven%20Central&queryOpt=:v=3)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/3)
+[![4 Badge](https://img.shields.io/nexus/r/io.github.mavenplugins/parent-base-maven-plugins?server=https://s01.oss.sonatype.org&label=Maven%20Central&queryOpt=:v=4)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/4)
 
 ### Summary
 - TBD
 
 ### 📦 Updates
 - TBD
+
+### 📝 Usage
+- For details on usage please have a look to the comments in [pom.xml](pom.xml)
+- Use as parent pom:
+  ```
+  <parent>
+    <groupId>io.github.mavenplugins</groupId>
+    <artifactId>parent-base-maven-plugins</artifactId>
+    <version>4</version>
+  </parent>
+  ```
+
+
+## [3]
+<!-- !!! Align version in badge URLs as well !!! -->
+[![3 Badge](https://img.shields.io/nexus/r/io.github.mavenplugins/parent-base-maven-plugins?server=https://s01.oss.sonatype.org&label=Maven%20Central&queryOpt=:v=3)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/3)
+
+### Summary
+- Refer to parent pom version `io.github.mavenplugins:org-parent:10`
+
+### 🔒 Security
+- Update reference to parent pom version `io.github.mavenplugins:org-parent:10`
 
 ### 📝 Usage
 - For details on usage please have a look to the comments in [pom.xml](pom.xml)
