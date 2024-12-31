@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>parent-base-maven-plugins</artifactId>
-  <version>3-SNAPSHOT</version>
+  <version>3</version>
   <packaging>pom</packaging>
 
   <name>Parent Base Maven Plugins</name>
@@ -43,7 +43,7 @@
   <scm>
     <connection>scm:git:https://github.com/mavenplugins/parent-base-maven-plugins.git</connection>
     <url>https://github.com/mavenplugins/parent-base-maven-plugins</url>
-    <tag>HEAD</tag>
+    <tag>v3</tag>
   </scm>
 
   <issueManagement>
