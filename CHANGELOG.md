@@ -104,7 +104,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Refer to parent pom version `io.github.mavenplugins:org-parent:13`
 
 ### 📦 Updates
-- Bump `io.github.mavenplugins:org-parent` from `10` to `13`
+- Bump `io.github.mavenplugins:org-parent` from `10` to `14`
 - Bump `org.apache.commons:commons-lang3` from `3.14.0` to `3.20.0`
 - Bump `org.apache.maven.shared:maven-invoker` from `3.1.0` to `3.3.0`
 - Bump `commons-io:commons-io` from `2.16.1` to `2.22.0`
