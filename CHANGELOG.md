@@ -76,13 +76,46 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 <!-- !!! Align version in badge URLs as well !!! -->
-[![4 Badge](https://img.shields.io/maven-central/v/io.github.mavenplugins/parent-base-maven-plugins?label=Maven%20Central&filter=4)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/4)
+[![5 Badge](https://img.shields.io/maven-central/v/io.github.mavenplugins/parent-base-maven-plugins?label=Maven%20Central&filter=5)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/5)
 
 ### Summary
 - TBD
 
 ### 📦 Updates
 - TBD
+
+### 📝 Usage
+- For details on usage please have a look to the comments in [pom.xml](pom.xml)
+- Use as parent pom:
+  ```
+  <parent>
+    <groupId>io.github.mavenplugins</groupId>
+    <artifactId>parent-base-maven-plugins</artifactId>
+    <version>5</version>
+  </parent>
+  ```
+
+
+## [4]
+<!-- !!! Align version in badge URLs as well !!! -->
+[![4 Badge](https://img.shields.io/maven-central/v/io.github.mavenplugins/parent-base-maven-plugins?label=Maven%20Central&filter=4)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/4)
+
+### Summary
+- Refer to parent pom version `io.github.mavenplugins:org-parent:13`
+
+### 📦 Updates
+- Bump `io.github.mavenplugins:org-parent` from `10` to `13`
+- Bump `org.apache.commons:commons-lang3` from `3.14.0` to `3.20.0`
+- Bump `org.apache.maven.shared:maven-invoker` from `3.1.0` to `3.3.0`
+- Bump `commons-io:commons-io` from `2.16.1` to `2.22.0`
+- Bump `org.apache.commons:commons-text` from `1.11.0` to `1.15.0`
+
+### 🔧 Internal Changes
+- CHANGELOG.md: fix Maven Central badge URLs
+- Add dependabot config
+
+### 🔒 Security
+- Fix security warnings on GitHub Actions
 
 ### 📝 Usage
 - For details on usage please have a look to the comments in [pom.xml](pom.xml)
@@ -159,6 +192,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - This is just a dummy placeholder to make the parser of GHCICD/release-notes-from-changelog@v1 happy!
 -->
 
-[Unreleased]: https://github.com/mavenplugins/parent-base-maven-plugins/compare/v3..HEAD
+[Unreleased]: https://github.com/mavenplugins/parent-base-maven-plugins/compare/v4..HEAD
+[4]: https://github.com/mavenplugins/parent-base-maven-plugins/compare/v3..v4
 [3]: https://github.com/mavenplugins/parent-base-maven-plugins/compare/v2..v3
 [2]: https://github.com/mavenplugins/parent-base-maven-plugins/releases/tag/v2
