@@ -76,7 +76,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 <!-- !!! Align version in badge URLs as well !!! -->
-[![4 Badge](https://img.shields.io/nexus/r/io.github.mavenplugins/parent-base-maven-plugins?server=https://s01.oss.sonatype.org&label=Maven%20Central&queryOpt=:v=4)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/4)
+[![4 Badge](https://img.shields.io/maven-central/v/io.github.mavenplugins/parent-base-maven-plugins?label=Maven%20Central&filter=4)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/4)
 
 ### Summary
 - TBD
@@ -98,7 +98,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [3]
 <!-- !!! Align version in badge URLs as well !!! -->
-[![3 Badge](https://img.shields.io/nexus/r/io.github.mavenplugins/parent-base-maven-plugins?server=https://s01.oss.sonatype.org&label=Maven%20Central&queryOpt=:v=3)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/3)
+[![3 Badge](https://img.shields.io/maven-central/v/io.github.mavenplugins/parent-base-maven-plugins?label=Maven%20Central&filter=3)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/3)
 
 ### Summary
 - Refer to parent pom version `io.github.mavenplugins:org-parent:10`
@@ -120,7 +120,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [2]
 <!-- !!! Align version in badge URLs as well !!! -->
-[![2 Badge](https://img.shields.io/nexus/r/io.github.mavenplugins/parent-base-maven-plugins?server=https://s01.oss.sonatype.org&label=Maven%20Central&queryOpt=:v=2)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/2)
+[![2 Badge](https://img.shields.io/maven-central/v/io.github.mavenplugins/parent-base-maven-plugins?label=Maven%20Central&filter=2)](https://central.sonatype.com/artifact/io.github.mavenplugins/parent-base-maven-plugins/2)
 
 ### Summary
 - Initial release maintained within GitHub mavenplugins organization
